@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>glcode.js</file>
+        <file>three.js</file>
+        <file>StereoEffect.js</file>
+        <file>Pano3DView.qml</file>
+        <file>utils.js</file>
+        <file>LensDistortedView.qml</file>
+    </qresource>
+</RCC>
